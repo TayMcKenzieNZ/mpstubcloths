@@ -5,9 +5,10 @@ A simple FiveM conversion for [Alex106's mod on GTA5mods website](https://www.gt
 ## Information:
 This mod replaces all the stub files of the MP characters clothes with "empty" drawables in order to prevent the game from crashing and makes scrolling past a certain ID work
 
-## DLCs with stub files:
+DLCs with stub files:
 - mp2023_01
 - mp2023_02
+- mp2024_01
 - mpg9ec
 - mpsum2_g9ec
 
