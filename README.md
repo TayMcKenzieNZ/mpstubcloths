@@ -2,24 +2,34 @@
 
 A simple FiveM conversion for [Alex106's mod on GTA5mods website](https://www.gta5-mods.com/player/mp-stub-clothes-patch).
 
-## Information:
-This mod replaces all the stub files of the MP characters clothes with "empty" drawables in order to prevent the game from crashing and makes scrolling past a certain ID work
+## Information 📜
+This mod replaces all the stub files of the MP characters clothes with "empty" drawables in order to prevent the game from crashing and makes scrolling past a certain ID work.
 
-DLCs with stub files:
+You will see the clothing number appear in your clothing menu, however will be able to scroll past it without crashing to the desktop / FiveM client.
+
+## DLCs with stub files ⚠️
 - mp2023_01
 - mp2023_02
 - mp2024_01
 - mpg9ec
 - mpsum2_g9ec
 
-## Installation
+## Installation 💾
 
 To 'install' this into your FiveM server, simply drag and drop the `mpstubcloths` folder into your FiveM server's resources folder or wherever you have your usual 'EUP' organised.
 
-Open your server.cfg file and add the following:
+Open your server.cfg file and add the following, ideally before any of your own personal custom clothing.
 
 ```cfg
 ensure mpstubcloths
+```
+
+Like so:
+
+```cfg
+ensure mpstubcloths
+ensure customeup1
+ensure customeup2
 ```
 
 
