@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Gen9ExclusiveAssetsDataPeds>
+  <PedData>
+    <Item>
+	  <PedModelName>mp_m_freemode_01</PedModelName>
+	  <DLCData />
+	</Item>
+
+    <Item>
+	  <PedModelName>mp_f_freemode_01</PedModelName>
+	  <DLCData />
+	</Item>	
+  </PedData>
+</Gen9ExclusiveAssetsDataPeds>
