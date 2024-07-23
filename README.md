@@ -1,6 +1,6 @@
 <h1 align="center">mpstubcloths</h1>
 
-A simple FiveM conversion for [Alex106's mod on GTA5mods website](https://www.gta5-mods.com/player/mp-stub-clothes-patch).
+A simple FiveM conversion for [Alex106's mod on GTA5mods website](https://www.gta5-mods.com/player/mp-stub-clothes-patch), by TayMckenzieNZ.
 
 ## Information 📜
 This mod replaces all the stub files of the MP characters clothes with "empty" drawables in order to prevent the game from crashing and makes scrolling past a certain ID work.
@@ -39,6 +39,8 @@ ensure customeup2
 
 # Credits
 
-All credits to [Alex106](https://www.gta5-mods.com/users/Alex106) for his amazing work and contributions to the GTA 5 modding community.
+- [Alex106](https://www.gta5-mods.com/users/Alex106) - files and research
+
+- [TayMckenzieNZ](https://github.com/taymckenzienz) - FiveM replacement conversion
 
 I will <b>not</b> be providing support for this resource 
