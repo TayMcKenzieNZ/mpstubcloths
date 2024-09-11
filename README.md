@@ -14,6 +14,19 @@ You will see the clothing number appear in your clothing menu, however will be a
 - mpg9ec
 - mpsum2_g9ec
 
+
+
+
+| | | |
+|-|-|-|
+| <img src="screenshots/001.webp" width="850"> | <img src="screenshots/002.webp" width="850"> | <img src="screenshots/003.webp" width="850"> |
+| <img src="screenshots/004.webp" width="850"> | <img src="screenshots/005.png" width="850"> | <img src="screenshots/006.png" width="850"> |
+| <img src="screenshots/007.png" width="850"> | <img src="screenshots/008.png" width="850"> | <img src="screenshots/009.png" width="850"> |
+
+
+
+
+
 ## Installation 💾
 
 To 'install' this into your FiveM server, simply drag and drop the `mpstubcloths` folder into your FiveM server's resources folder or wherever you have your usual 'EUP' organised.
