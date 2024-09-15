@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'TayMcKenzieNZ'
 description 'Resource to fix Rockstar Games broken PC clothing assets'
-version '1.0.7'
+version '1.0.9'
 
 files {
     'gen9_exclusive_assets_peds.meta'
