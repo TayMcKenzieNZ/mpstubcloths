@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'TayMcKenzieNZ'
-description 'Resource to fix Rockstar Games broken PC clothing assets'
-version '1.0.9'
+description 'Resource to fix Rockstar Games Gen9 broken PC clothing assets'
+version '2.0.0'
 
 files {
     'gen9_exclusive_assets_peds.meta'
